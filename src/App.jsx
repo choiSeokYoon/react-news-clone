@@ -1,5 +1,4 @@
 
-
 import { Route, Routes } from 'react-router-dom';
 import NewsPage from './pages/NewsPage';
 
